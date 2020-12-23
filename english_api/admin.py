@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import word
+from .models import Word
 
 
 
-admin.site.register(word)
+admin.site.register(Word)
